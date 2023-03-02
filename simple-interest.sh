@@ -4,7 +4,7 @@
 
 # Author: Upkar Lidder (IBM)
 # Addtional Authors:
-# Sam Skywalker (skywalkerSam)
+# skywalkerSam
 
 # Input:
 # p, principal amount
